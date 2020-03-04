@@ -1,0 +1,578 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button component All Variants 1`] = `
+<div
+  role="none"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "display": "flex",
+      "flexDirection": "row",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "justifyContent": "space-around",
+      "overflow": "hidden",
+      "position": "relative",
+    }
+  }
+>
+  <div
+    role="none"
+    style={
+      Object {
+        "alignItems": "stretch",
+        "display": "flex",
+        "flexDirection": "column",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "overflow": "hidden",
+        "position": "relative",
+        "width": 200,
+      }
+    }
+  >
+    <button
+      aria-label="Click me"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "appRegion": "no-drag",
+          "backgroundColor": "#0078FF",
+          "borderColor": "transparent",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": "0",
+          "cursor": "pointer",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 48,
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "paddingBottom": 8,
+          "paddingLeft": 16,
+          "paddingRight": 16,
+          "paddingTop": 8,
+          "position": "relative",
+          "textAlign": "left",
+        }
+      }
+      title="Click me"
+    >
+      <div
+        style={
+          Object {
+            "color": "white",
+            "cursor": "inherit",
+            "display": "inline",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "lineHeight": "27px",
+            "overflow": "hidden",
+            "overflowWrap": "break-word",
+            "position": "relative",
+            "textAlign": "center",
+            "whiteSpace": "pre-wrap",
+          }
+        }
+      >
+        Click me
+         
+        web
+      </div>
+    </button>
+    <div
+      role="none"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 10,
+          "overflow": "hidden",
+          "position": "relative",
+        }
+      }
+    />
+    <button
+      aria-disabled={true}
+      aria-label="Click me"
+      disabled={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "appRegion": "no-drag",
+          "backgroundColor": "#0078FF",
+          "borderColor": "transparent",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": "0",
+          "cursor": "default",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 0.2,
+          "overflow": "hidden",
+          "paddingBottom": 8,
+          "paddingLeft": 16,
+          "paddingRight": 16,
+          "paddingTop": 8,
+          "position": "relative",
+          "textAlign": "left",
+        }
+      }
+      title="Click me"
+    >
+      <div
+        style={
+          Object {
+            "color": "white",
+            "cursor": "inherit",
+            "display": "inline",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "lineHeight": "27px",
+            "overflow": "hidden",
+            "overflowWrap": "break-word",
+            "position": "relative",
+            "textAlign": "center",
+            "whiteSpace": "pre-wrap",
+          }
+        }
+      >
+        Click me
+         
+        web
+      </div>
+    </button>
+    <div
+      role="none"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 10,
+          "overflow": "hidden",
+          "position": "relative",
+        }
+      }
+    />
+    <button
+      aria-label="Click me"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "appRegion": "no-drag",
+          "backgroundColor": "#E8EDF1",
+          "borderColor": "transparent",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": "0",
+          "cursor": "pointer",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 48,
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "paddingBottom": 8,
+          "paddingLeft": 16,
+          "paddingRight": 16,
+          "paddingTop": 8,
+          "position": "relative",
+          "textAlign": "left",
+        }
+      }
+      title="Click me"
+    >
+      <div
+        style={
+          Object {
+            "color": "#252A32",
+            "cursor": "inherit",
+            "display": "inline",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "lineHeight": "27px",
+            "overflow": "hidden",
+            "overflowWrap": "break-word",
+            "position": "relative",
+            "textAlign": "center",
+            "whiteSpace": "pre-wrap",
+          }
+        }
+      >
+        Click me
+         
+        web
+      </div>
+    </button>
+    <div
+      role="none"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 10,
+          "overflow": "hidden",
+          "position": "relative",
+        }
+      }
+    />
+    <button
+      aria-disabled={true}
+      aria-label="Click me"
+      disabled={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "appRegion": "no-drag",
+          "backgroundColor": "#E8EDF1",
+          "borderColor": "transparent",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": "0",
+          "cursor": "default",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 0.2,
+          "overflow": "hidden",
+          "paddingBottom": 8,
+          "paddingLeft": 16,
+          "paddingRight": 16,
+          "paddingTop": 8,
+          "position": "relative",
+          "textAlign": "left",
+        }
+      }
+      title="Click me"
+    >
+      <div
+        style={
+          Object {
+            "color": "#252A32",
+            "cursor": "inherit",
+            "display": "inline",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "lineHeight": "27px",
+            "overflow": "hidden",
+            "overflowWrap": "break-word",
+            "position": "relative",
+            "textAlign": "center",
+            "whiteSpace": "pre-wrap",
+          }
+        }
+      >
+        Click me
+         
+        web
+      </div>
+    </button>
+    <div
+      role="none"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 10,
+          "overflow": "hidden",
+          "position": "relative",
+        }
+      }
+    />
+    <button
+      aria-label="Click me"
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "appRegion": "no-drag",
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#252A32",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": 1,
+          "cursor": "pointer",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 48,
+          "justifyContent": "center",
+          "overflow": "hidden",
+          "paddingBottom": 8,
+          "paddingLeft": 16,
+          "paddingRight": 16,
+          "paddingTop": 8,
+          "position": "relative",
+          "textAlign": "left",
+        }
+      }
+      title="Click me"
+    >
+      <div
+        style={
+          Object {
+            "color": "#252A32",
+            "cursor": "inherit",
+            "display": "inline",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "lineHeight": "27px",
+            "overflow": "hidden",
+            "overflowWrap": "break-word",
+            "position": "relative",
+            "textAlign": "center",
+            "whiteSpace": "pre-wrap",
+          }
+        }
+      >
+        Click me
+         
+        web
+      </div>
+    </button>
+    <div
+      role="none"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 10,
+          "overflow": "hidden",
+          "position": "relative",
+        }
+      }
+    />
+    <button
+      aria-disabled={true}
+      aria-label="Click me"
+      disabled={true}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onContextMenu={[Function]}
+      onFocus={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      role="button"
+      style={
+        Object {
+          "alignItems": "stretch",
+          "appRegion": "no-drag",
+          "backgroundColor": "#0078FF",
+          "borderColor": "transparent",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": "0",
+          "cursor": "default",
+          "display": "flex",
+          "flexDirection": "column",
+          "flexGrow": 0,
+          "flexShrink": 0,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 0.2,
+          "overflow": "hidden",
+          "paddingBottom": 8,
+          "paddingLeft": 16,
+          "paddingRight": 16,
+          "paddingTop": 8,
+          "position": "relative",
+          "textAlign": "left",
+        }
+      }
+      title="Click me"
+    >
+      <div
+        style={
+          Object {
+            "color": "white",
+            "cursor": "inherit",
+            "display": "inline",
+            "flexGrow": 0,
+            "flexShrink": 0,
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "lineHeight": "27px",
+            "overflow": "hidden",
+            "overflowWrap": "break-word",
+            "position": "relative",
+            "textAlign": "center",
+            "whiteSpace": "pre-wrap",
+          }
+        }
+      >
+        Click me
+         
+        web
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Button component Test 1`] = `
+<button
+  aria-label="Click me"
+  onBlur={[Function]}
+  onClick={[Function]}
+  onContextMenu={[Function]}
+  onFocus={[Function]}
+  onMouseDown={[Function]}
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  onMouseUp={[Function]}
+  onTouchEnd={[Function]}
+  onTouchMove={[Function]}
+  onTouchStart={[Function]}
+  role="button"
+  style={
+    Object {
+      "alignItems": "stretch",
+      "appRegion": "no-drag",
+      "backgroundColor": "#E8EDF1",
+      "borderColor": "transparent",
+      "borderRadius": 8,
+      "borderStyle": "solid",
+      "borderWidth": "0",
+      "cursor": "pointer",
+      "display": "flex",
+      "flexDirection": "column",
+      "flexGrow": 0,
+      "flexShrink": 0,
+      "height": 48,
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "paddingBottom": 8,
+      "paddingLeft": 16,
+      "paddingRight": 16,
+      "paddingTop": 8,
+      "position": "relative",
+      "textAlign": "left",
+    }
+  }
+  title="Click me"
+>
+  <div
+    style={
+      Object {
+        "color": "#252A32",
+        "cursor": "inherit",
+        "display": "inline",
+        "flexGrow": 0,
+        "flexShrink": 0,
+        "fontFamily": "Roboto-Regular",
+        "fontSize": 18,
+        "lineHeight": "27px",
+        "overflow": "hidden",
+        "overflowWrap": "break-word",
+        "position": "relative",
+        "textAlign": "center",
+        "whiteSpace": "pre-wrap",
+      }
+    }
+  >
+    Click me
+     
+    web
+  </div>
+</button>
+`;

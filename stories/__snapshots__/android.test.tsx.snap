@@ -1,0 +1,469 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button component All Variants 1`] = `
+<View
+  style={
+    Object {
+      "flexDirection": "row",
+      "justifyContent": "space-around",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "width": 200,
+      }
+    }
+  >
+    <View
+      accessibilityComponentType="button"
+      accessibilityLabel="Click me"
+      accessibilityTraits={
+        Array [
+          "button",
+        ]
+      }
+      importantForAccessibility="yes"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#0078FF",
+          "borderRadius": 8,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 1,
+          "overflow": "hidden",
+          "paddingHorizontal": 16,
+          "paddingVertical": 8,
+        }
+      }
+      tooltip="Click me"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "includeFontPadding": false,
+              "textAlignVertical": "center",
+            },
+            Array [
+              Object {
+                "color": "white",
+                "fontFamily": "Roboto-Regular",
+                "fontSize": 18,
+                "lineHeight": 27,
+                "textAlign": "center",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Click me
+         
+        android
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "height": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType="button"
+      accessibilityLabel="Click me"
+      accessibilityTraits={
+        Array [
+          "button",
+        ]
+      }
+      importantForAccessibility="yes"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#0078FF",
+          "borderRadius": 8,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 0.2,
+          "overflow": "hidden",
+          "paddingHorizontal": 16,
+          "paddingVertical": 8,
+        }
+      }
+      tooltip="Click me"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "includeFontPadding": false,
+              "textAlignVertical": "center",
+            },
+            Array [
+              Object {
+                "color": "white",
+                "fontFamily": "Roboto-Regular",
+                "fontSize": 18,
+                "lineHeight": 27,
+                "textAlign": "center",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Click me
+         
+        android
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "height": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType="button"
+      accessibilityLabel="Click me"
+      accessibilityTraits={
+        Array [
+          "button",
+        ]
+      }
+      importantForAccessibility="yes"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#E8EDF1",
+          "borderRadius": 8,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 1,
+          "overflow": "hidden",
+          "paddingHorizontal": 16,
+          "paddingVertical": 8,
+        }
+      }
+      tooltip="Click me"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "includeFontPadding": false,
+              "textAlignVertical": "center",
+            },
+            Array [
+              Object {
+                "color": "white",
+                "fontFamily": "Roboto-Regular",
+                "fontSize": 18,
+                "lineHeight": 27,
+                "textAlign": "center",
+              },
+              Object {
+                "color": "#252A32",
+              },
+            ],
+          ]
+        }
+      >
+        Click me
+         
+        android
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "height": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType="button"
+      accessibilityLabel="Click me"
+      accessibilityTraits={
+        Array [
+          "button",
+        ]
+      }
+      importantForAccessibility="yes"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#E8EDF1",
+          "borderRadius": 8,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 0.2,
+          "overflow": "hidden",
+          "paddingHorizontal": 16,
+          "paddingVertical": 8,
+        }
+      }
+      tooltip="Click me"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "includeFontPadding": false,
+              "textAlignVertical": "center",
+            },
+            Array [
+              Object {
+                "color": "white",
+                "fontFamily": "Roboto-Regular",
+                "fontSize": 18,
+                "lineHeight": 27,
+                "textAlign": "center",
+              },
+              Object {
+                "color": "#252A32",
+              },
+            ],
+          ]
+        }
+      >
+        Click me
+         
+        android
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "height": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType="button"
+      accessibilityLabel="Click me"
+      accessibilityTraits={
+        Array [
+          "button",
+        ]
+      }
+      importantForAccessibility="yes"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#FFFFFF",
+          "borderColor": "#252A32",
+          "borderRadius": 8,
+          "borderStyle": "solid",
+          "borderWidth": 1,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 1,
+          "overflow": "hidden",
+          "paddingHorizontal": 16,
+          "paddingVertical": 8,
+        }
+      }
+      tooltip="Click me"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "includeFontPadding": false,
+              "textAlignVertical": "center",
+            },
+            Array [
+              Object {
+                "color": "white",
+                "fontFamily": "Roboto-Regular",
+                "fontSize": 18,
+                "lineHeight": 27,
+                "textAlign": "center",
+              },
+              Object {
+                "color": "#252A32",
+              },
+            ],
+          ]
+        }
+      >
+        Click me
+         
+        android
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "height": 10,
+        }
+      }
+    />
+    <View
+      accessibilityComponentType="button"
+      accessibilityLabel="Click me"
+      accessibilityTraits={
+        Array [
+          "button",
+        ]
+      }
+      importantForAccessibility="yes"
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "alignItems": "stretch",
+          "backgroundColor": "#0078FF",
+          "borderRadius": 8,
+          "height": 48,
+          "justifyContent": "center",
+          "opacity": 0.2,
+          "overflow": "hidden",
+          "paddingHorizontal": 16,
+          "paddingVertical": 8,
+        }
+      }
+      tooltip="Click me"
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "includeFontPadding": false,
+              "textAlignVertical": "center",
+            },
+            Array [
+              Object {
+                "color": "white",
+                "fontFamily": "Roboto-Regular",
+                "fontSize": 18,
+                "lineHeight": 27,
+                "textAlign": "center",
+              },
+              undefined,
+            ],
+          ]
+        }
+      >
+        Click me
+         
+        android
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Storyshots Button component Test 1`] = `
+<View
+  accessibilityComponentType="button"
+  accessibilityLabel="Click me"
+  accessibilityTraits={
+    Array [
+      "button",
+    ]
+  }
+  importantForAccessibility="yes"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "alignItems": "stretch",
+      "backgroundColor": "#E8EDF1",
+      "borderRadius": 8,
+      "height": 48,
+      "justifyContent": "center",
+      "opacity": 1,
+      "overflow": "hidden",
+      "paddingHorizontal": 16,
+      "paddingVertical": 8,
+    }
+  }
+  tooltip="Click me"
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "includeFontPadding": false,
+          "textAlignVertical": "center",
+        },
+        Array [
+          Object {
+            "color": "white",
+            "fontFamily": "Roboto-Regular",
+            "fontSize": 18,
+            "lineHeight": 27,
+            "textAlign": "center",
+          },
+          Object {
+            "color": "#252A32",
+          },
+        ],
+      ]
+    }
+  >
+    Click me
+     
+    android
+  </Text>
+</View>
+`;

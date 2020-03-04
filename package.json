@@ -1,0 +1,32 @@
+{
+  "name": "Documents",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-native": "^0.61.5",
+    "reactxp": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.8.3",
+    "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+    "@babel/preset-env": "^7.8.6",
+    "@babel/preset-typescript": "^7.8.3",
+    "@storybook/addon-actions": "^5.3.14",
+    "@storybook/addon-knobs": "^5.3.14",
+    "@storybook/addon-storyshots": "^5.3.14",
+    "@storybook/addons": "^5.3.14",
+    "@storybook/react": "^5.3.14",
+    "@storybook/react-native": "^5.3.14",
+    "@types/jest": "^25.1.3",
+    "@types/react": "^16.9.23",
+    "babel-jest": "^25.1.0",
+    "babel-loader": "^8.0.6",
+    "jest": "^25.1.0",
+    "react-test-renderer": "^16.13.0",
+    "typescript": "^3.8.3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "target": "es2017",
+    "lib": ["es2017"],
+    "module": "es2015",
+    "moduleResolution": "node",
+    "declaration": true,
+    "isolatedModules": true,
+    "resolveJsonModule": true,
+    "jsx": "react",
+  },
+  "include": ["src/**/*"],
+  "exclude": ["**/*.stories.tsx", "**/__test__/*", "**/__mocks__/*", "**/__fixtures__/*"]
+}
